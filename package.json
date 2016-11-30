@@ -1,0 +1,23 @@
+{
+  "name": "andela-labs-day3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tshuwari/andela-labs-day3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tshuwari/andela-labs-day3/issues"
+  },
+  "homepage": "https://github.com/tshuwari/andela-labs-day3#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2"
+  }
+}
